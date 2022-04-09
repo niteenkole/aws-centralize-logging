@@ -14,3 +14,8 @@ Automating centralize log collection also play key component to make operation p
 Collecting VPC flow logs from all accounts and pushing to central location then push to required logging tool like splunk.
 
 Centralizing application logs and then pushing to required logging tool like splunk.
+
+# Basically we have 3 parts here.
+# 1. Cloudtrail and config logs.
+# 2. Centralize vpcflowlogs.
+# 3. Centralize Application logs.
