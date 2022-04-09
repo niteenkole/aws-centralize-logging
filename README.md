@@ -6,8 +6,11 @@ In enterprise environment like bank,finance etc where you have huge numbers of A
 
 Example: 
 Collecting all cloudtrail,config logs from all accounts in central location and then say pushing to splunk security (SOC requirement).
+
 Automating centralize log collection also play key component to make operation process easy.
+
 Collecting VPC flow logs from all accounts and pushing to central location then push to required logging tool like splunk.
+
 Centralizing application logs and then pushing to required logging tool like splunk.
 
 
