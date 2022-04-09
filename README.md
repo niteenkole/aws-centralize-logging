@@ -19,3 +19,9 @@ Centralizing application logs and then pushing to required logging tool like spl
 # 1. Cloudtrail and config logs.
 # 2. Centralize vpcflowlogs.
 # 3. Centralize Application logs.
+
+# 1. Cloudtrail and config logs.
+One method is to use centrally cloudtrail and config logs collected using AWS control tower method in central s3.
+From there we can use say splunk pull method (ADDON) 
+
+Steps:
